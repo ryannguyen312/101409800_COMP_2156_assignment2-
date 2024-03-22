@@ -1,0 +1,3 @@
+Name: Minh Cuong Nguyen
+Student ID: 101409800
+Git repository created from AWS EC2 instance
